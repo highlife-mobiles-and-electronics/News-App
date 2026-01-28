@@ -10,7 +10,3 @@ integrated with an external API.
 
 ## Technology Used
 - Android / Flutter
-- REST API
-
-## Source
-Forked from Ajuja001/News-App
